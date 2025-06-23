@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Flight Price Predictor</title>
+</head>
+<body>
+    <h2>Flight Price Prediction Form</h2>
+    <form action="/predict" method="post">
+        Airline: <input type="text" name="Airline"><br><br>
+        Source: <input type="text" name="Source"><br><br>
+        Destination: <input type="text" name="Destination"><br><br>
+        Total Stops: <input type="text" name="Total_Stops"><br><br>
+        Journey Day: <input type="text" name="Journey_Day"><br><br>
+        Journey Month: <input type="text" name="Journey_Month"><br><br>
+        Departure Hour: <input type="text" name="Dep_Hour"><br><br>
+        Departure Minute: <input type="text" name="Dep_Minute"><br><br>
+        Arrival Hour: <input type="text" name="Arrival_Hour"><br><br>
+        Arrival Minute: <input type="text" name="Arrival_Minute"><br><br>
+        Duration Hours: <input type="text" name="Duration_hours"><br><br>
+        Duration Minutes: <input type="text" name="Duration_mins"><br><br>
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction_text %}
+        <h3>{{ prediction_text }}</h3>
+    {% endif %}
+</body>
+</html>
