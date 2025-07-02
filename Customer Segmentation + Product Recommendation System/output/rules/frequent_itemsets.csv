@@ -1,0 +1,190 @@
+support,itemsets
+0.03664416586306654,frozenset({'Baby Food'})
+0.05625200900032144,frozenset({'Baby Wipes'})
+0.01446480231436837,frozenset({'Bananas'})
+0.0392156862745098,frozenset({'Biscuits'})
+0.043072966891674704,frozenset({'Bread'})
+0.023465123754419802,frozenset({'Butter'})
+0.03182256509161042,frozenset({'Carrots'})
+0.04885888781742205,frozenset({'Cat Food'})
+0.014143362262937963,frozenset({'Cereal'})
+0.027643844423015106,frozenset({'Cheese'})
+0.0273224043715847,frozenset({'Chips'})
+0.020250723240115717,frozenset({'Chocolates'})
+0.03567984570877531,frozenset({'Cola'})
+0.015107682417229186,frozenset({'Cookies'})
+0.06075216972034716,frozenset({'Cough Syrup'})
+0.023465123754419802,frozenset({'Curd'})
+0.03825136612021858,frozenset({'Detergent'})
+0.013821922211507553,frozenset({'Diapers'})
+0.05785920925747348,frozenset({'Dish Soap'})
+0.03696560591449695,frozenset({'Dog Food'})
+0.040501446480231434,frozenset({'Eggs'})
+0.03696560591449695,frozenset({'Frozen Biryani'})
+0.028286724525875925,frozenset({'Frozen Pizza'})
+0.021215043394406944,frozenset({'Frozen Vegetables'})
+0.016072002571520413,frozenset({'Ice Cream'})
+0.01800064288010286,frozenset({'Iced Tea'})
+0.011250401800064288,frozenset({'Instant Noodles'})
+0.006750241080038573,frozenset({'Lemonade'})
+0.05946640951462552,frozenset({'Lotion'})
+0.02185792349726776,frozenset({'Mango Drink'})
+0.01575056252009,frozenset({'Mangoes'})
+0.00900032144005143,frozenset({'Milk'})
+0.022500803600128575,frozenset({'Nuts'})
+0.03567984570877531,frozenset({'Onions'})
+0.03728704596592736,frozenset({'Orange Juice'})
+0.03407264545162327,frozenset({'Pain Reliever'})
+0.0739312118289939,frozenset({'Pet Treats'})
+0.029572484731597556,frozenset({'Popcorn'})
+0.036322725811636127,frozenset({'Potatoes'})
+0.04371584699453552,frozenset({'Pulses'})
+0.017036322725811636,frozenset({'Rice'})
+0.019286403085824494,frozenset({'Salt'})
+0.02539376406300225,frozenset({'Shampoo'})
+0.02925104468016715,frozenset({'Soap'})
+0.006750241080038573,frozenset({'Spinach'})
+0.027965284474445518,frozenset({'Sugar'})
+0.06493089038894247,frozenset({'Toilet Cleaner'})
+0.01671488267438123,frozenset({'Tomatoes'})
+0.029893924783027964,frozenset({'Toothpaste'})
+0.0585020893603343,frozenset({'Vitamins'})
+0.0353584056573449,frozenset({'Wheat Flour'})
+0.0019286403085824494,"frozenset({'Baby Food', 'Baby Wipes'})"
+0.0012857602057216328,"frozenset({'Baby Food', 'Biscuits'})"
+0.0016072002571520412,"frozenset({'Baby Food', 'Cheese'})"
+0.0012857602057216328,"frozenset({'Baby Food', 'Cough Syrup'})"
+0.0016072002571520412,"frozenset({'Baby Food', 'Dish Soap'})"
+0.0012857602057216328,"frozenset({'Baby Food', 'Lotion'})"
+0.0016072002571520412,"frozenset({'Baby Food', 'Pet Treats'})"
+0.0012857602057216328,"frozenset({'Baby Food', 'Popcorn'})"
+0.0012857602057216328,"frozenset({'Baby Food', 'Toilet Cleaner'})"
+0.0016072002571520412,"frozenset({'Bread', 'Baby Wipes'})"
+0.0016072002571520412,"frozenset({'Butter', 'Baby Wipes'})"
+0.0012857602057216328,"frozenset({'Chips', 'Baby Wipes'})"
+0.0012857602057216328,"frozenset({'Cola', 'Baby Wipes'})"
+0.0016072002571520412,"frozenset({'Dish Soap', 'Baby Wipes'})"
+0.0016072002571520412,"frozenset({'Eggs', 'Baby Wipes'})"
+0.0012857602057216328,"frozenset({'Frozen Vegetables', 'Baby Wipes'})"
+0.0022500803600128574,"frozenset({'Lotion', 'Baby Wipes'})"
+0.0012857602057216328,"frozenset({'Onions', 'Baby Wipes'})"
+0.0016072002571520412,"frozenset({'Pain Reliever', 'Baby Wipes'})"
+0.0028929604628736743,"frozenset({'Pet Treats', 'Baby Wipes'})"
+0.0016072002571520412,"frozenset({'Pulses', 'Baby Wipes'})"
+0.0016072002571520412,"frozenset({'Toilet Cleaner', 'Baby Wipes'})"
+0.0025715204114432656,"frozenset({'Vitamins', 'Baby Wipes'})"
+0.0012857602057216328,"frozenset({'Biscuits', 'Cough Syrup'})"
+0.0012857602057216328,"frozenset({'Biscuits', 'Curd'})"
+0.0012857602057216328,"frozenset({'Frozen Pizza', 'Biscuits'})"
+0.0012857602057216328,"frozenset({'Biscuits', 'Nuts'})"
+0.0016072002571520412,"frozenset({'Onions', 'Biscuits'})"
+0.0016072002571520412,"frozenset({'Orange Juice', 'Biscuits'})"
+0.0016072002571520412,"frozenset({'Biscuits', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Bread', 'Cheese'})"
+0.0012857602057216328,"frozenset({'Eggs', 'Bread'})"
+0.0012857602057216328,"frozenset({'Lotion', 'Bread'})"
+0.0019286403085824494,"frozenset({'Bread', 'Pain Reliever'})"
+0.0019286403085824494,"frozenset({'Pet Treats', 'Bread'})"
+0.0012857602057216328,"frozenset({'Popcorn', 'Bread'})"
+0.0012857602057216328,"frozenset({'Toilet Cleaner', 'Bread'})"
+0.0012857602057216328,"frozenset({'Bread', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Vitamins', 'Butter'})"
+0.0012857602057216328,"frozenset({'Cat Food', 'Carrots'})"
+0.0016072002571520412,"frozenset({'Carrots', 'Cough Syrup'})"
+0.0016072002571520412,"frozenset({'Carrots', 'Curd'})"
+0.0012857602057216328,"frozenset({'Frozen Pizza', 'Carrots'})"
+0.0016072002571520412,"frozenset({'Carrots', 'Lotion'})"
+0.0016072002571520412,"frozenset({'Carrots', 'Vitamins'})"
+0.0019286403085824494,"frozenset({'Cat Food', 'Cough Syrup'})"
+0.0012857602057216328,"frozenset({'Eggs', 'Cat Food'})"
+0.0016072002571520412,"frozenset({'Cat Food', 'Onions'})"
+0.0012857602057216328,"frozenset({'Cat Food', 'Pain Reliever'})"
+0.0019286403085824494,"frozenset({'Cat Food', 'Pet Treats'})"
+0.0016072002571520412,"frozenset({'Cat Food', 'Salt'})"
+0.0019286403085824494,"frozenset({'Cat Food', 'Toilet Cleaner'})"
+0.0012857602057216328,"frozenset({'Cat Food', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Vitamins', 'Cereal'})"
+0.0016072002571520412,"frozenset({'Dog Food', 'Cheese'})"
+0.0012857602057216328,"frozenset({'Orange Juice', 'Cheese'})"
+0.0012857602057216328,"frozenset({'Pain Reliever', 'Cheese'})"
+0.0019286403085824494,"frozenset({'Chips', 'Orange Juice'})"
+0.0012857602057216328,"frozenset({'Chips', 'Toilet Cleaner'})"
+0.0016072002571520412,"frozenset({'Pet Treats', 'Chocolates'})"
+0.0012857602057216328,"frozenset({'Cough Syrup', 'Cola'})"
+0.0012857602057216328,"frozenset({'Detergent', 'Cola'})"
+0.0016072002571520412,"frozenset({'Dish Soap', 'Cola'})"
+0.0012857602057216328,"frozenset({'Frozen Pizza', 'Cola'})"
+0.0012857602057216328,"frozenset({'Potatoes', 'Cola'})"
+0.003857280617164899,"frozenset({'Dish Soap', 'Cough Syrup'})"
+0.0016072002571520412,"frozenset({'Dog Food', 'Cough Syrup'})"
+0.0019286403085824494,"frozenset({'Eggs', 'Cough Syrup'})"
+0.0012857602057216328,"frozenset({'Iced Tea', 'Cough Syrup'})"
+0.0025715204114432656,"frozenset({'Cough Syrup', 'Lotion'})"
+0.0012857602057216328,"frozenset({'Cough Syrup', 'Nuts'})"
+0.0012857602057216328,"frozenset({'Pet Treats', 'Cough Syrup'})"
+0.0012857602057216328,"frozenset({'Cough Syrup', 'Popcorn'})"
+0.0012857602057216328,"frozenset({'Soap', 'Cough Syrup'})"
+0.0012857602057216328,"frozenset({'Cough Syrup', 'Sugar'})"
+0.0016072002571520412,"frozenset({'Toilet Cleaner', 'Cough Syrup'})"
+0.0019286403085824494,"frozenset({'Cough Syrup', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Pet Treats', 'Curd'})"
+0.0025715204114432656,"frozenset({'Detergent', 'Lotion'})"
+0.0012857602057216328,"frozenset({'Orange Juice', 'Detergent'})"
+0.0012857602057216328,"frozenset({'Detergent', 'Pet Treats'})"
+0.0012857602057216328,"frozenset({'Soap', 'Detergent'})"
+0.0012857602057216328,"frozenset({'Dog Food', 'Dish Soap'})"
+0.0016072002571520412,"frozenset({'Dish Soap', 'Frozen Biryani'})"
+0.0012857602057216328,"frozenset({'Dish Soap', 'Lotion'})"
+0.0028929604628736743,"frozenset({'Potatoes', 'Dish Soap'})"
+0.0028929604628736743,"frozenset({'Dish Soap', 'Toilet Cleaner'})"
+0.0012857602057216328,"frozenset({'Dish Soap', 'Toothpaste'})"
+0.0016072002571520412,"frozenset({'Wheat Flour', 'Dish Soap'})"
+0.0012857602057216328,"frozenset({'Dog Food', 'Eggs'})"
+0.0012857602057216328,"frozenset({'Dog Food', 'Pulses'})"
+0.0022500803600128574,"frozenset({'Dog Food', 'Toilet Cleaner'})"
+0.0019286403085824494,"frozenset({'Dog Food', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Eggs', 'Frozen Biryani'})"
+0.0012857602057216328,"frozenset({'Eggs', 'Popcorn'})"
+0.0012857602057216328,"frozenset({'Eggs', 'Pulses'})"
+0.0012857602057216328,"frozenset({'Frozen Pizza', 'Frozen Biryani'})"
+0.0019286403085824494,"frozenset({'Pet Treats', 'Frozen Biryani'})"
+0.0012857602057216328,"frozenset({'Frozen Biryani', 'Toilet Cleaner'})"
+0.0012857602057216328,"frozenset({'Frozen Pizza', 'Onions'})"
+0.0022500803600128574,"frozenset({'Frozen Pizza', 'Pet Treats'})"
+0.0025715204114432656,"frozenset({'Mango Drink', 'Lotion'})"
+0.0012857602057216328,"frozenset({'Onions', 'Lotion'})"
+0.0019286403085824494,"frozenset({'Orange Juice', 'Lotion'})"
+0.0016072002571520412,"frozenset({'Lotion', 'Pain Reliever'})"
+0.0022500803600128574,"frozenset({'Pet Treats', 'Lotion'})"
+0.0016072002571520412,"frozenset({'Popcorn', 'Lotion'})"
+0.0016072002571520412,"frozenset({'Lotion', 'Sugar'})"
+0.0022500803600128574,"frozenset({'Toilet Cleaner', 'Lotion'})"
+0.0012857602057216328,"frozenset({'Lotion', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Wheat Flour', 'Lotion'})"
+0.0016072002571520412,"frozenset({'Pet Treats', 'Mango Drink'})"
+0.0012857602057216328,"frozenset({'Soap', 'Milk'})"
+0.0012857602057216328,"frozenset({'Pet Treats', 'Nuts'})"
+0.0012857602057216328,"frozenset({'Toilet Cleaner', 'Nuts'})"
+0.0019286403085824494,"frozenset({'Orange Juice', 'Onions'})"
+0.0022500803600128574,"frozenset({'Onions', 'Vitamins'})"
+0.0016072002571520412,"frozenset({'Pet Treats', 'Pain Reliever'})"
+0.0016072002571520412,"frozenset({'Potatoes', 'Pain Reliever'})"
+0.0016072002571520412,"frozenset({'Toilet Cleaner', 'Pain Reliever'})"
+0.0019286403085824494,"frozenset({'Pet Treats', 'Popcorn'})"
+0.0022500803600128574,"frozenset({'Pet Treats', 'Potatoes'})"
+0.0016072002571520412,"frozenset({'Pulses', 'Pet Treats'})"
+0.0016072002571520412,"frozenset({'Salt', 'Pet Treats'})"
+0.0016072002571520412,"frozenset({'Pet Treats', 'Shampoo'})"
+0.0022500803600128574,"frozenset({'Pet Treats', 'Toilet Cleaner'})"
+0.0025715204114432656,"frozenset({'Pet Treats', 'Vitamins'})"
+0.0016072002571520412,"frozenset({'Wheat Flour', 'Pet Treats'})"
+0.0016072002571520412,"frozenset({'Popcorn', 'Vitamins'})"
+0.0019286403085824494,"frozenset({'Pulses', 'Potatoes'})"
+0.0012857602057216328,"frozenset({'Potatoes', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Pulses', 'Shampoo'})"
+0.0022500803600128574,"frozenset({'Pulses', 'Toilet Cleaner'})"
+0.0016072002571520412,"frozenset({'Pulses', 'Vitamins'})"
+0.0012857602057216328,"frozenset({'Soap', 'Toilet Cleaner'})"
+0.0012857602057216328,"frozenset({'Wheat Flour', 'Sugar'})"
+0.0022500803600128574,"frozenset({'Toilet Cleaner', 'Vitamins'})"
+0.0016072002571520412,"frozenset({'Wheat Flour', 'Vitamins'})"
