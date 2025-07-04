@@ -15,18 +15,18 @@ class BankInterventionOptimizer:
         }
     
     def _preprocess_data(self):
-        """Ensure realistic probabilities and calculate CLV"""
+        
         self.data['churn_prob'] = np.minimum(self.data['churn_prob'], 0.95)  # Cap at 95%
         self.data['CLV'] = self._calculate_clv()
     
     def _calculate_clv(self):
-        """Conservative CLV estimation"""
+        
         monthly_profit = self.data['Balance'] * 0.0045  # 0.45% monthly yield
         retention_rate = 1 - self.data['churn_prob']
         return monthly_profit * 12 * np.minimum(1 / (1 - retention_rate), 10)  # Cap at 10 years
     
     def optimize(self, customer_ids, max_budget):
-        """Greedy optimization with strategy limits"""
+        
         # Generate all possible allocations
         candidates = []
         for cid in customer_ids:
