@@ -75,7 +75,7 @@ MAX_CLV_YEARS = 10      # Cap CLV calculation
 ```
 
 ## Sample Output
-
+https://github.com/Pratik-Mali-11/Data-Science-Project-Series/blob/5340be217e7999430dd59d6f172ec858a32e16fb/Bank%20customer%20Churn%20Prediction/streamlit_output.png
 
 ## License
 
