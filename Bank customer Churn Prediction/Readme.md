@@ -1,5 +1,4 @@
-```markdown
-# Bank Customer Churn Prevention System
+## Bank Customer Churn Prevention System
 
 An AI-powered solution that predicts customer churn risk and recommends optimal retention strategies to maximize ROI while respecting budget constraints.
 
