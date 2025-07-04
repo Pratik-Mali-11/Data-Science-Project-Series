@@ -1,0 +1,24 @@
+# Core Data Science
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+scipy==1.10.1
+joblib==1.3.1
+
+# Machine Learning
+xgboost==2.0.0
+shap==0.44.0
+catboost==1.2.1
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.15.0
+
+# App Framework
+streamlit==1.27.0
+streamlit-authenticator==0.2.1  # Optional for auth
+
+# Utilities
+python-dotenv==1.0.0  # For environment variables
+tqdm==4.65.0  # Progress bars
